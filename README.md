@@ -15,6 +15,42 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
    ```bash
     npx expo start
    ```
+# 🎥 Video Upload and Playback in React Native Expo App  
+
+This project demonstrates how to implement video upload and playback in a **React Native Expo App** using **Supabase** for video storage and **Expo-Video** for video playback. 🚀  
+
+## 📹 Features  
+
+- **Upload Videos**: Users can seamlessly upload videos to Supabase.  
+- **Playback Videos**: Watch uploaded videos directly within the app using Expo-Video.  
+- **Simple & Clean UI**: Designed with user experience in mind.  
+
+## ✨ Demo  
+
+Check out the video demonstration of the app: [Watch Demo](https://www.linkedin.com/posts/md-obidul-haque-3ba641255_reactabrnative-expo-reactabrnativeabrexpo-activity-7279441062757044224-Hm1o?utm_source=share&utm_medium=member_desktop)  
+
+## 🛠️ Technologies Used  
+
+- **React Native Expo**: For building the mobile application.  
+- **Supabase**: To handle video storage and backend functionalities.  
+- **Expo-Video**: For smooth video playback.  
+
+## 🚀 Getting Started  
+
+### Prerequisites  
+
+- Node.js and npm installed.  
+- Expo CLI installed.  
+- Supabase account and project setup.  
+
+### Installation  
+
+1. Clone this repository:  
+   ```bash  
+   git clone https://github.com/obidulHaque/video-upload-and-watch-in-expo-App-using-supabase.git  
+   cd video-upload-playback  
+
+
 
 In the output, you'll find options to open the app in a
 
