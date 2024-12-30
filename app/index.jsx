@@ -65,13 +65,13 @@ const App = () => {
     }
   };
 
-  const openUrl = (url) => {
-    if (!url) {
-      Alert.alert("No URL available");
-      return;
-    }
-    Linking.openURL(url);
-  };
+  // const openUrl = (url) => {
+  //   if (!url) {
+  //     Alert.alert("No URL available");
+  //     return;
+  //   }
+  //   Linking.openURL(url);
+  // };
 
   return (
     <SafeAreaView style={styles.container}>
